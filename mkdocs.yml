@@ -1,0 +1,30 @@
+site_name: Casa dei Flanders
+site_url: https://paginablanda.org/lamiapagina
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight 
+    - search.share
+
+plugins:
+ - search
+ - tags
+
+nav:
+ - Heylà: 
+    - Ma quello è Ned?: Ned/index.md
+ - Chi sono: 
+    - Info generali: Ned/about.md
+    - Origiineine: Ned/Infanziainainaina.md
+
