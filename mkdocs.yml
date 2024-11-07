@@ -3,7 +3,6 @@ site_url: https://paginablanda.org
 theme:
   name: material
   palette:
-   scheme: default
    primary: green
    accent: amber
   icon:
