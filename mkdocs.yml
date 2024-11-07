@@ -35,8 +35,7 @@ nav:
       - Info generali: Ned/about.md
       - Origiineine: Ned/Infanziainainaina.md
 
-extra_css:
-   - stylesheets/extra.css
+
 
 markdown_extensions:
    - attr_list
