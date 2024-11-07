@@ -7,7 +7,7 @@ theme:
    primary: green
    accent: amber
   icon:
-   logo: material/cross-outline
+   logo: 
   
   features:
     - navigation.instant
