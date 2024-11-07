@@ -22,7 +22,6 @@ plugins:
  - tags
 
 nav:
-   - Home: index.md
    - Heylà: 
       - Ma quello è Ned?: index.md
    - Chi sono: 
