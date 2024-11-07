@@ -2,6 +2,13 @@ site_name: Casa dei Flanders
 site_url: https://paginablanda.org
 theme:
   name: material
+  palette:
+   scheme: default
+   primary: green
+   accent: amber
+  icon:
+   logo: material/cross-outline
+  
   features:
     - navigation.instant
     - navigation.instant.progress
@@ -28,3 +35,11 @@ nav:
       - Info generali: Ned/about.md
       - Origiineine: Ned/Infanziainainaina.md
 
+extra_css:
+   - stylesheets/extra.css
+
+markdown_extensions:
+   - attr_list
+   - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
