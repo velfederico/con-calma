@@ -22,7 +22,7 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight 
-    - search.share
+    - search.shares
 
 plugins:
  - search
@@ -30,7 +30,7 @@ plugins:
 
 nav:
   - Heylà: 
-    - Ma quello è Ned?: index.md
+    - Ma quello è Homer?: index.md
   - Chi sono: 
       - Info generali: Ned/about.md
       - Origiineine: Ned/Infanziainainaina.md
