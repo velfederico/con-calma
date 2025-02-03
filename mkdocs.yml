@@ -30,7 +30,7 @@ plugins:
 
 nav:
   - Heylà: 
-    - Ma quello è Homer?: index.md
+    - Ma quello è Ned?: index.md
   - Chi sono: 
       - Info generali: Ned/about.md
       - Origiineine: Ned/Infanziainainaina.md
